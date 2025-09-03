@@ -1,0 +1,1 @@
+<h1>My PHP boilerplate</h1>
