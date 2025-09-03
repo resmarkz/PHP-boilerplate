@@ -1,0 +1,9 @@
+{
+  "require": {
+    "bramus/router": "~1.6"
+  },
+  "scripts": {
+    "start": "php -S localhost:1234 -t public",
+    "dev": "php -S localhost:1234 -t public"
+  }
+}
